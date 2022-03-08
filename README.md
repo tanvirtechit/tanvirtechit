@@ -2,7 +2,7 @@
 <h3 align="center">A Linux System Administrator from Bangladesh</h3>
 
 <p align="left"><a href="https://twitter.com/tanvirtechit" target="blank"><img
-        alt="tanvirtechit" src="https://img.shields.io/twitter/follow/tanvirtechi?logo=twitter&style=for-the-badge"/></a>
+        alt="tanvirtechit" src="https://img.shields.io/twitter/follow/tanvirtechit?logo=twitter&style=for-the-badge"/></a>
 </p>
 
 - 🔭 Currently working at [SEBPO](https://sebpo.com/)
