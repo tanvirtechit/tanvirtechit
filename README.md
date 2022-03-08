@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 Currently working at [SEBPO](https://sebpo.com/)
-
+- - 🌱 Interested in Devops, Cybersecurity and Ethical Hacking
 
 - 💬 Ask me about Linux System Administration
 
