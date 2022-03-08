@@ -3,7 +3,8 @@
 
 <p align="left"><a href="https://twitter.com/tanvirtechit" target="blank"><img
         alt="tanvirtechit" src="https://img.shields.io/twitter/follow/tanvirtechit?logo=twitter&style=for-the-badge"/></a>
-        [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+        <a href="https://www.youtube.com/channel/UCPMNcOGcd_TU8rJ_T23_TEA/videos" target="blank"><img
+        alt="tanvirtechit" src="https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge"/></a>
 </p>
 
 - 🔭 Currently working at [SEBPO](https://sebpo.com/)
