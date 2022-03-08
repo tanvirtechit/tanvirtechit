@@ -29,7 +29,7 @@
                                                              height="30"
                                                              src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
                                                              width="40"/></a>
-    <a href="https://fb.com/tanvirtechit" target="blank"><img align="center"
+    <a href="https://t.me/tanvirtechit" target="blank"><img align="center"
                                                              alt="tanvirtechit"
                                                              height="30"
                                                              src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg"
