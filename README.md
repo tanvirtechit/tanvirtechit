@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Tanvir</h1>
+<h3 align="center">A passionate backend developer from Bangladesh</h3>
 
-<!--
-**tanvirtechit/tanvirtechit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"><a href="https://twitter.com/tanvironair" target="blank"><img
+        alt="tanvironair" src="https://img.shields.io/twitter/follow/tanvironair?logo=twitter&style=for-the-badge"/></a>
+</p>
 
-Here are some ideas to get you started:
+- 🔭 Currently working at [SEBPO](https://sebpo.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 💬 Ask me about Linux System Administration
+
+- 📫 How to reach me [@tanvirtechit](https://www.twitter.com/tanvirtechit)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://twitter.com/tanvirtechit" target="blank"><img align="center"
+                                                                  alt="tanvironair"
+                                                                  height="30"
+                                                                  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
+                                                                  width="40"/></a>
+    <a href="https://linkedin.com/in/tanvirtechit" target="blank"><img align="center"
+                                                                      alt="tanvironair"
+                                                                      height="30"
+                                                                      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
+                                                                      width="40"/></a>
+    <a href="https://fb.com/tanvirtechit" target="blank"><img align="center"
+                                                             alt="tanvironair"
+                                                             height="30"
+                                                             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
+                                                             width="40"/></a>
+
+</p>
+
