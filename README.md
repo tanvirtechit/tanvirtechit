@@ -12,7 +12,7 @@
 
 - 💬 Ask me about Linux System Administration
 
-- 📫 How to reach me [@tanvirtechit](https://www.twitter.com/tanvirtechit)
+- 📫 How to reach me [@Skype](https://join.skype.com/invite/gDZqSsH1YPJU)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
